@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this data set, please cite it as below and link the source guide."
+title: "Pet urn size chart and reproducible capacity calculator"
+version: "1.0.0"
+date-released: 2026-11-13
+license: CC-BY-4.0
+doi: 10.5281/zenodo.24207132
+url: "https://whitedoeurns.com/pages/pet-urn-size-guide"
+authors:
+  - name: "White Doe"
